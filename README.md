@@ -1,5 +1,6 @@
 # Implementing real-time updates in Syncfusion Grid
 This article delves into the intricacies of implementing live data updates within the Syncfusion React Grid. This comprehensive guide explores how developers can seamlessly integrate real-time data feeds into their applications to ensure that grid displays are always up-to-date with the latest information. From establishing connections to data sources to configuring automatic refresh mechanisms, this blog covers everything developers need to know to create dynamic and responsive grids. With step-by-step instructions and code samples, developers can learn how to leverage Syncfusion's powerful features to build applications that deliver real-time insights and enhance user experiences.
+
 ![live-update](demo-image/live.gif)
 
 ## Where the live data is used?
